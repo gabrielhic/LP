@@ -9,7 +9,7 @@ int main(void)
   
   for (i = 0; i < 10; i++)
   {
-    /* gerando valores aleatórios entre zero e 100 */
+    /* aa gerando valores aleatórios entre zero e 100 */
     printf("%d ", rand() % 100);
   }
   
